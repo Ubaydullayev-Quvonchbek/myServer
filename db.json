@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Ubaydullayev Quvonchbek",
+      "comment": "Hello Guys"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Ubaydullayev Quvonchbek",
+      "username": "BLADE"
+    }
+  ],
+  "data": [
+    {
+      "id": 1,
+      "empty": "empty"
+    }
+  ]
+}
